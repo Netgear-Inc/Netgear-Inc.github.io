@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Seal SDK README
 ---
 # SeAL SDK
