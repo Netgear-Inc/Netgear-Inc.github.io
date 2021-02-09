@@ -14,6 +14,8 @@ For more detail about SeAL, its components, and other related procedures, see [S
 ## Quickstart
 This section contains the minimum steps to get started creating your first SeAL service package.
 
+[![ocean sounds and underwater video of a sea turtle](http://img.youtube.com/vi/n695ONICHrU/0.jpg)](http://www.youtube.com/watch?v=n695ONICHrU "mindful minutes")
+
 ### Prerequisites
 + Laptop running a recent Linux distribution (Ubuntu 20.04 recommended, and is what was tested with the below steps)
 + NETGEAR router (model RBR750)
